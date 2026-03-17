@@ -10,3 +10,6 @@ git remote set-url
 git push origin master
 git commit -m
 These are new changes........
+git pull origin master
+
+
